@@ -12,22 +12,27 @@ Kullanıcıdan alınan bir sayıya kadar yıldızlarla üçgen çizen program.
 3 - Hesap Makinesi:
 
 Kullanıcının iki sayı üzerinde dört işlem yapmasını sağlayan hesap makinesi programı.
+
 4 - Not Hesaplama:
 
 
 Kullanıcının vize ve final notlarına göre ders geçip geçmediğini kontrol eden program.
+
 5 - Fonksiyon Kullanımı:
 
 
 İki sayının toplamını hesaplayan ve sonucu döndüren bir fonksiyonun kullanımı.
+
 6 - Sınav Notu Hesaplama:
 
 
 Kullanıcının vize ve final notlarına göre ders geçip geçmediğini kontrol eden program.
+
 7 - Basit Düzey Hesaplama:
 
 
 Kullanıcının üç sınav notunu alıp ortalama hesaplayan ve geçip geçmediğini kontrol eden program.
+
 8 - Mantıksal Operatör Kullanımı:
 
 
